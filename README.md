@@ -10,6 +10,6 @@ Finally, 'Airbnb.ipynb' contains our analysis for part 3 of the report, with the
 The libraries we used during the exercises:
     sys, pandas, numpy, math(default python library), matplotlib.pyplot, datetime(default python library), scipy, sklearn, re
 
-The libraries we used that were not in the exercises:
+The libraries we used that were not in the exercises, so you might need to install them:
     folium, mip, itertools(default python library), nltk, seaborn
 
